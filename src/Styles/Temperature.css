@@ -1,0 +1,22 @@
+#temperature{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+#temperature h1{
+    margin: 3%;
+}
+
+#temperature input{
+    margin: 3%;
+}
+
+#cold{
+    color: blue;
+}
+
+#warm{
+    color: red;
+}
